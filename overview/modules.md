@@ -6,8 +6,8 @@
 ---
 
 # <center> Service Enablement Boot Camp </center>
-## <center> December 5-9, 2016 </center>
-## <center> Singapore, Singapore </center>
+## <center> December 18 2018 to Jan 6 2019 </center>
+## <center> Faridabad Netweb Office </center>
 
 ---
 <div style="page-break-after: always;"></div>
