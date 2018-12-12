@@ -1,0 +1,16 @@
+mkdir RahulLodha
+cd RahulLodha/
+vim README.md
+git init
+git commit -m "first commit"
+git add README.md 
+git commit -m "first commit"
+git remote add origin https://github.com/kumarcraja/Rahul-Lodha.git
+git push -u origin master
+vim README.md 
+git status
+git diff
+git add README.md 
+git commit -m "Updated Readme file"
+git push -u origin master
+vim git_commands.txt
