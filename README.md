@@ -1,11 +1,8 @@
 # <center>Services Enablement Boot Camp 
 # <center> 
 
-This repository holds the course materials for Cloudera's Services
+This repository holds the course materials for Skill
 Enablement Boot Camp.
-
-If you've received this repo as a ZIP file via email, please follow
-the instructions that were included to initialize your repo.
 
 You can make your GitHub repo Private or Public.  It does not matter
 to the course which option you use.
