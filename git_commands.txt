@@ -14,3 +14,6 @@ git add README.md
 git commit -m "Updated Readme file"
 git push -u origin master
 vim git_commands.txt
+git add git_commands.txt
+git commit -m "Added new file git_commands.txt"
+git push -u origin master
